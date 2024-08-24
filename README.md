@@ -14,10 +14,6 @@ This project is a web-based wallet application built using React and Solana's We
 
 ## Lifecoin Token
 
-In addition to general SPL tokens, this application features a custom token called **Lifecoin**. Lifecoin (symbol: LFC) has metadata associated with it, including a custom image. If you hold Lifecoin tokens, their details will be displayed with the image.
-
-### Lifecoin Metadata Example
-
 - **Name**: Lifecoin
 - **Symbol**: LFC
 - **Image**: ![Lifecoin Image](https://raw.githubusercontent.com/SUNIDHI-JAIN125/MetaData-Token/main/lifecoin%20.png)
