@@ -14,10 +14,12 @@ This project is a web-based wallet application built using React and Solana's We
 
 ## Created Lifecoin Token
 
+- See details here [LifeCoin](https://explorer.solana.com/address/2j9cBV9yir5dPUwVWWQsuQwuoy8xbSKrPbhjfRgBijqd?cluster=devnet)
+  
 - **Name**: Lifecoin
 - **Symbol**: LFC
 - **Image**: ![Lifecoin Image](https://raw.githubusercontent.com/SUNIDHI-JAIN125/MetaData-Token/main/lifecoin%20.png)
-- See more details here [LifeCoin](https://explorer.solana.com/address/2j9cBV9yir5dPUwVWWQsuQwuoy8xbSKrPbhjfRgBijqd?cluster=devnet)
+
 
 ## Installation and Running the Application
 
