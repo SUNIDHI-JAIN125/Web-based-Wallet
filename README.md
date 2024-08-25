@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web-based wallet application built using React and Solana's Web3 library. The wallet allows users to create a new Solana wallet, view their SOL balance, and display SPL tokens associated with their wallet. The application fetches and shows token metadata, including images if available, or provides a link to the Solana Explorer for tokens with missing metadata.
+This project is a web-based wallet application built using React and Solana's Web3 library. The wallet allows users to create a new Solana wallet, view their SOL balance, and display SPL tokens associated with their wallet. The application fetches and shows token metadata, including images if available, or provides a link to the Solana Explorer for tokens with no metadata.
 
 ## Features
 
